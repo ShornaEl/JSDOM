@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+}
+.el{
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    border-radius: 20%;
+    margin: 20px;
+}
+.container{
+    height: 1000px;
+    width: 1000px;
+    display:inline-flex ;
+    justify-content: center;
+}
+.red{
+    background-color: brown;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+.yellow{
+    background-color: yellow;
+}
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: black;
+}

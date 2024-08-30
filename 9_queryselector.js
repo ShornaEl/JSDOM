@@ -1,0 +1,6 @@
+console.dir(document.querySelector('p'))
+console.dir(document.querySelector('#mainImg'))
+console.dir(document.querySelector(".boxLink"))
+console.dir(document.querySelectorAll('p'))
+console.dir(document.querySelectorAll('#mainImg'))
+console.dir(document.querySelectorAll(".boxLink"))

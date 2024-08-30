@@ -1,0 +1,20 @@
+terminal = text based input output invironment
+term related to terminal(similar word)
+command line(any interface to type textual command )
+terminal - one type of command line
+console - a command line interface used to work with computer
+shell - software(program) running on terminal
+bash - populer shell(mac/linux)
+Z-shell - default shell
+(install git bash) to run git command
+pwd - current path
+directory - inside(folder + file)
+cd --/cd .. = back button
+cd ../.. = back 2 directory
+cd / = root directory(in which directory this terminal open)
+cd ~ = home directory
+mkdir = make directory
+man ls(linux) ls --help(windows git  bash) = give info about ls command
+man mkdir = same 
+press Q/q to quit from manual
+create file command - touch file_name.file_type(html, txt,c,cpp,js)
